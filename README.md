@@ -47,8 +47,8 @@ The following image shows the web application's appearance and functionality:
 
 To start, I added pseudo code using 💬comments. I did this to make sure to use efficient processes that meet all of the Acceptance Criteria. The Pseudo Code pictured below describes the processes I chose to use and why I chose them.
 
-![Pseudo Code from JavaScript file.](./Assets/pseudocodescreenshot.png)
+![Pseudo Code from JavaScript file.](./Assets/pseudocodescreenshot.PNG)
 
-## ## 🎯 Final Product
+## 🎯 Final Product
 
-![screenshot of Password Generator in use.](./Assets/finalproduct.png)
+![screenshot of Password Generator in use.](./Assets/finalproduct.PNG)
